@@ -1,3 +1,3 @@
 # mrviru
-this is test repository
-author mr
+this is test repository.
+author-mr
